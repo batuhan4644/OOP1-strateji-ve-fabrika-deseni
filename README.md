@@ -1,0 +1,1 @@
+# OOP1-strateji-ve-fabrika-deseni
